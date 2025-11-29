@@ -8,3 +8,5 @@ This includes: States, MCSR, Lifesteal, DSMP, QSMP, Unstable Universe, Hermitcra
 ![](https://files.catbox.moe/jvd0uc.gif)
 
 Didnt get a follow? [**Write your github here!**](https://mcyt.atabook.org/)
+
+Over 370+ Minecraft fans found as in now 0_=
