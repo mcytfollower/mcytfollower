@@ -10,4 +10,4 @@ This includes: States, MCSR, Lifesteal, DSMP, QSMP, Unstable Universe, Hermitcra
 
 Didnt get a follow? [**Write your github here!**](https://mcyt.atabook.org/)
 
-Over 450+ Minecraft fans found as in now 0_=
+Over 500+ Minecraft fans found as in now 0_=
